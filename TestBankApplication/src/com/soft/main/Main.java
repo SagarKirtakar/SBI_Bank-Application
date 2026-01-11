@@ -6,5 +6,8 @@ public class Main {
 		
 		System.out.println("Welcome to Java Programming..!");
 		
+		System.out.println("Welcome to github..!");
+		
+		System.out.println("Welcome to Local Repo..!");
 	}
 }
